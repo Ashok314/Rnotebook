@@ -1,7 +1,7 @@
 # Rnotebook
 ## Open file "metric_notebook.Rmd" in R Studio
 
-#Report as follows: 
+# Report as follows: 
 
 ---
 title: "R Notebook- Analysis and prediction on NASA KC1"
